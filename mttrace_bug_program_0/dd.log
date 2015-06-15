@@ -1,0 +1,28 @@
+==============TEST START==============
+TEST RESULT : PASS
+==============TEST END================
+==============TEST START==============
+>>>>TEST CONTENT START<<<<
+1
+2
+3
+4
+5
+>>>>>TEST CONTENT END<<<<<
+TEST RESULT : FAIL
+==============TEST END================
+==============TEST START==============
+>>>>TEST CONTENT START<<<<
+4
+5
+>>>>>TEST CONTENT END<<<<<
+TEST RESULT : PASS
+==============TEST END================
+==============TEST START==============
+>>>>TEST CONTENT START<<<<
+4
+5
+>>>>>TEST CONTENT END<<<<<
+TEST RESULT : FAIL
+==============TEST END================
+undeterministic event detect
